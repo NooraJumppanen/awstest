@@ -1,0 +1,14 @@
+{
+	"name": "awstestthree",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo 'Running unit tests!'",
+		"build": "echo 'Running a build'",
+		"lint": "echo 'Linting'"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
